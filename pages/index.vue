@@ -27,7 +27,7 @@ export default defineComponent({
   layout: "company",
   setup() {
     let activeTab = ref(0);
-    let confirmTab = ref(1);
+    let confirmTab = ref(0);
     let descriptionDetails = reactive({
       title: "Event Fantasy",
       description: "Estd 2019, Let's take this Celebration to the next level!!",
