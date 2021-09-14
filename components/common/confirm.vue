@@ -1,7 +1,7 @@
 <template>
   <main >
   <div>
-    <div class="bg-indigo-100 rounded-lg md:max-w-md md:mx-auto p-4 fixed inset-x-0 bottom-0 z-50 mb-4 mx-4 md:relative">
+    <div class="bg-white rounded-lg md:max-w-md md:mx-auto p-4 fixed inset-x-0 bottom-0 z-50 mb-4 mx-4 md:relative">
       <div class="md:flex items-center">
         <div class="rounded-full border border-gray-300 flex items-center justify-center w-16 h-16 flex-shrink-0 mx-auto">
           <i class="bx bx-error text-3xl"></i>
